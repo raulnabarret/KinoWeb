@@ -1,3 +1,39 @@
+commit e863ce31c69cff232206553c381708bc74c2b439
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 12:28:57 2015 -0600
+
+    Creamos el signup y sus estilos
+
+commit 52c814fdeac680938783b549db8b52dd1198b389
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 12:18:55 2015 -0600
+
+    Modificaciones menores el estilo del login
+
+commit a51e6dd232b12c8d557ca5c1acb25c5ae764455b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Mar 8 22:15:49 2015 -0600
+
+    Creamos la estructura de home, sus estilos y agregamos sus assests
+
+commit d76657d9372895c141191d55d6fa7d64cf0a857a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Mar 8 19:25:18 2015 -0600
+
+    Modificacion en los metas de descripción del archivo
+
+commit 0d1428863f510db6002a66ae60a5759b7815b7da
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Mar 8 19:17:08 2015 -0600
+
+    Maquetación del login, con sus estilos y normalize.css. Funcionando.
+
+commit 2aee7f92ae63398d2811b4b15160e6d728f60b88
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Mar 6 15:33:34 2015 -0600
+
+    Agregamos el log de los commits
+
 commit 953708775af6cb3202199ebbbbc90db0232ad391
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Fri Mar 6 14:46:50 2015 -0600
