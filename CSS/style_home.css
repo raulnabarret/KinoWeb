@@ -1,0 +1,78 @@
+html{
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+}
+
+.avatar, .search{
+	float: right;
+}
+
+.avatar{
+	border-radius: 50%;
+	margin: 0.5em;
+	height: 35px;
+	width: 35px;
+}
+
+.footer{
+	background: #202020;
+	color: white;
+	margin: 0;
+	height: 10%;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+
+}
+
+.header{
+	height: 50px;
+	background: #003366;
+	position: fixed;	
+	width:100%;
+}
+
+.home{
+	color: white; 
+	font-size: 1.5em;
+	font-weight: 500;
+	margin: 0.4em 0.5em 0.5em 0.5em;
+	padding-left: 0.2em;
+	text-decoration: none;
+	text-align: vertical;
+}
+
+.home, .home_avatar, .search{
+	display: inline-block;
+}
+.menu{
+	background: #404040;
+	height: 30px;
+	padding-top: 50px;
+}
+
+.menu_items{
+	padding: 0.3em 2em;
+	margin: 0;
+}
+
+nav ul li{
+	padding-right: 3em; 
+	display: inline-block;
+}
+
+nav ul li a{
+	font-size: 300;
+	color: white;
+	text-decoration: none;
+}
+
+.search{
+	margin: 0.75em 0.5em 0.75em 0.5em;
+	position: absolute;
+}
+
+.container{
+	
+}
