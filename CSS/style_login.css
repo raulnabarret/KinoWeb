@@ -1,0 +1,90 @@
+body{
+	font-family: Ubuntu;
+	height: 100%;
+	margin: 0;
+	width: 100%;
+}
+
+.chart{
+	background: #B0B0B0;
+	box-shadow: rgba(0,0,0,0.5) 5px 5px 20px; 
+	border-radius: 5px;
+	display: block;
+	height: 300px;
+	margin-left: 34%;
+	margin-top: 100px;
+	margin-bottom: 97px;
+	width: 400px;
+}
+
+.container{
+	background: #F5F3EE;
+	height: 90%;
+}
+
+.footer{
+	background: #003366;
+	color: white;
+	margin: 0;
+	height: 10%;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+.form{
+	text-align: center;
+}
+
+h1{
+	font-size: 55px;
+	color: #003366;
+	margin: 0;
+	padding-top: 20px;
+	text-align: center;
+}
+
+p{
+	padding-top: 30px;
+	margin: 0;
+	text-align: center;
+}
+
+#password{
+	border-radius: 5px;
+	font-size: 18px;
+	height: 40px;
+	text-align: center;
+	width: 250px;
+}
+
+#signIn{
+	font-size: 20px;
+	margin-top: 10px;
+	width: 250px;
+	height: 40px;
+}
+
+.signUp{
+	font-size: 12px;
+	color: blue;
+}
+
+.signUp_Container{
+
+}
+
+#user{
+	margin-top: 85px;
+	border-radius: 5px;
+	font-size: 18px;
+	height: 40px;
+	text-align: center;
+	width: 250px;
+}
+
+
+
+
+
+
