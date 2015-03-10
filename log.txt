@@ -1,3 +1,21 @@
+commit cb9c9e0edc512d58ab8a270536d494b26ea6e4b1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 22:49:59 2015 -0600
+
+    Creamos la estructura para el perfil del usuario y sus estilos en CSS
+
+commit 0c72bcfb25d043b1bfb859aa3c3e2c68f9656c1f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 19:27:53 2015 -0600
+
+    Cambios otros
+
+commit 1735169f9140ca7c334f764af899c72ade937dda
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 19:27:16 2015 -0600
+
+    Creamos la estructura de  new/specials con sus estilos
+
 commit b8c0e5196b4b0e61f86bff8e207f89b7da9b6b96
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Mon Mar 9 18:21:50 2015 -0600
