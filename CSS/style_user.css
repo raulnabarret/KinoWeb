@@ -1,0 +1,116 @@
+html{
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+}
+
+a{
+	margin: 0;
+}
+
+.avatar, .search{
+	float: right;
+}
+
+.avatar{
+	border-radius: 50%;
+	margin: 0.5em;
+	height: 35px;
+	width: 35px;
+}
+
+.big_avatar{
+	border-radius: 50%;
+	float: left;
+	height: 180px;
+	margin: 1em;
+	width: 180px;
+}
+
+.container{	
+	background: #F0F0F0;
+	padding-bottom: 10%;
+	height: 400px;
+}
+
+.container_links{
+	border-left: 3px solid gray;
+	position: absolute;
+	padding-left: 1em;
+	margin: 2em 1em 1em 1em;
+}
+
+.container_links, .container_avatar{
+	display: inline-block;
+}
+
+.footer{
+	display: block;
+	background: #003366;
+	color: white;
+	margin: 0;
+	height: 10%;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
+
+.header{
+	height: 50px;
+	background: #003366;
+	position: fixed;	
+	width:100%;
+}
+
+.home{
+	color: white; 
+	font-size: 1.5em;
+	font-weight: 500;
+	margin: 0.4em 0.5em 0.5em 0.5em;
+	padding-left: 0.2em;
+	text-decoration: none;
+	text-align: vertical;
+}
+
+.home, .home_avatar, .search{
+	display: inline-block;
+}
+
+.menu{
+	background: #404040;
+	height: 30px;
+	padding-top: 50px;
+}
+
+.menu_items{
+	padding: 0.3em 2em;
+	margin: 0;
+}
+
+.miPerfil, .miCarrito, .miConfiguracion, .miMetodoDePago{
+	margin-bottom: 0.8em;
+	padding: 0 1em;
+	color: #404040;
+}
+
+nav ul li{
+	padding-right: 3em; 
+	display: inline-block;
+}
+
+nav ul li a{
+	font-size: 300;
+	color: white;
+	text-decoration: none;
+}
+
+.search{
+	margin: 0.75em 0.5em 0.75em 0.5em;
+	position: absolute;
+}
+
+section article a {
+	text-decoration: none;
+	font-size: 2em;
+}
