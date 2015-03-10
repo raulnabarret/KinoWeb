@@ -1,3 +1,15 @@
+commit b8c0e5196b4b0e61f86bff8e207f89b7da9b6b96
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 18:21:50 2015 -0600
+
+    Creamos la estructura y los estilos para las pestañas de movies/TV
+
+commit 0932afa5980c397dd3b0d470a55a28c8b0721828
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 9 12:29:28 2015 -0600
+
+    Actualizamos el log
+
 commit e863ce31c69cff232206553c381708bc74c2b439
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Mon Mar 9 12:28:57 2015 -0600
