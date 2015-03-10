@@ -1,0 +1,128 @@
+html{
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+}
+
+.avatar, .search{
+	float: right;
+}
+
+.avatar{
+	border-radius: 50%;
+	margin: 0.5em;
+	height: 35px;
+	width: 35px;
+}
+
+.container{	
+	background: #B0B0B0;
+	padding-bottom: 10%;
+}
+
+.cover{
+	border-radius: 5px;
+	margin: 1em;
+	height: 150px;
+	width: 100px;
+}
+
+.description{
+	font-size: 0.6em;
+}
+
+h2{
+	margin: 0;
+	padding: 1em 1em;
+	font-size: 1.1em;
+	color: #900000;
+}
+
+.header{
+	height: 50px;
+	background: #003366;
+	position: fixed;	
+	width:100%;
+}
+
+.home{
+	color: white; 
+	font-size: 1.5em;
+	font-weight: 500;
+	margin: 0.4em 0.5em 0.5em 0.5em;
+	padding-left: 0.2em;
+	text-decoration: none;
+	text-align: vertical;
+}
+
+.home, .home_avatar, .search{
+	display: inline-block;
+}
+
+.item{
+	display: inline-block;
+	margin: 1em;
+	text-align: center;
+	width: 130px;
+}
+.item_container{
+	text-align: center;
+}
+
+.item_container, .list{
+	display: block;
+}
+
+.footer{
+	display: block;
+	background: #003366;
+	color: white;
+	margin: 0;
+	height: 10%;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
+
+.list{
+	float: top;
+	margin: 0 1em;
+}
+
+.menu{
+	background: #404040;
+	height: 30px;
+	padding-top: 50px;
+}
+
+.menu_items{
+	padding: 0.3em 2em;
+	margin: 0;
+}
+
+nav ul li{
+	padding-right: 3em; 
+	display: inline-block;
+}
+
+nav ul li a{
+	font-weight: 300;
+	color: white;
+	text-decoration: none;
+}
+
+.price{
+	color: yellow;
+}
+
+.search{
+	margin: 0.75em 0.5em 0.75em 0.5em;
+	position: absolute;
+}
+
+.title{
+	color: #003366;
+	font-size: 0.85em;
+	font-weight: 500;
+}
